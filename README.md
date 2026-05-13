@@ -28,7 +28,7 @@ Building scalable systems, AI-powered workflows, and production-grade applicatio
 
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/mohamedazzim/AziDev/main/developer-photo.png"
+<img src="[https://raw.githubusercontent.com/mohamedazzim/AziDev/main/developer-photo.png](https://raw.githubusercontent.com/mohamedazzim/mohamedazzim/refs/heads/main/developer-photo.png)"
      width="230"
      height="300"
      style="border-radius:45%;"
